@@ -8,8 +8,9 @@
 </head>
 <body>
     <?php
-    $a=3;
-    echo "\$a=$a";
+    echo "PHP";
+    echo "управляющие";
+    echo "последовательности";
     ?>
 </body>
 </html>
