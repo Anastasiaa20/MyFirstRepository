@@ -8,7 +8,8 @@
 </head>
 <body>
     <?php
-    echo "oioi";
+    $a=3;
+    echo "\$a=$a";
     ?>
 </body>
 </html>
